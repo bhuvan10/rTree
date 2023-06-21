@@ -26,4 +26,4 @@ C Progeamming Language
 - Output will be printed on the screen.
 
 
-![App Screenshot](https://github.com/bhuvan10/rTree/blob/main/img.png))
+![App Screenshot](https://github.com/bhuvan10/rTree/blob/main/img.png)
