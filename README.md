@@ -14,7 +14,16 @@ R-trees are widely used in various applications involving spatial data, such as 
 
 C Progeamming Language
 
+## Instruction to Run the Program
+- Put `rTree.c`, `small.txt` and `data2.txt` in a directory.
+- `rTree.c`is the program's C file.
+- `small.txt` contains the smaller dataset and `large.txt` contains larger dataset.
+- Open a terminal window (for Mac/Linux) or command promt window (for Windows) in that directory.
+- To run the program run the following command 
+  -   for windows run `gcc -o DSA_assignment_group_11.exe DSA_assignment_group_11.c && DSA_assignment_group_11.exe filename.txt` in the command prompt.
+  -   for Mac/Linux run `gcc -o DSA_assignment_group_11 DSA_assignment_group_11.c && ./DSA_assignment_group_11 filename.txt` in the termial.
+-   `filename.txt` is the command line argument. Replace it with appropriate file name present in your system.
+- Output will be printed on the screen.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/bhuvan10/rTree/blob/main/img.png))
